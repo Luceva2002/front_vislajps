@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.vislagps.app',
+  appId: 'com.visla.vislagps',
   appName: 'Visla GPS',
   webDir: 'out',
   server: {
